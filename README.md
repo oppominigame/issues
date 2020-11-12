@@ -8,6 +8,8 @@
 - oppo小游戏引擎版本 以及 第三方游戏引擎及版本 （如不是最新版本，先都升级到最新版本看下能否解决问题）
 - 提供一个简单的demo，可以去定位问题
 
+> 提问入口：https://github.com/oppominigame/issues/issues/new/choose
+
 **官方文档入口：**
 
 小游戏开发文档入口，有常见问题，对引擎的支持，api，各个版本引擎apk下载地址[->进入<-](https://cdofs.oppomobile.com/cdo-activity/static/201810/26/quickgame/documentation/#/games/use)

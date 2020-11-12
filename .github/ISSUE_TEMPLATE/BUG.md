@@ -26,14 +26,14 @@ assignees: UncleBill
 <!--
 如果问题类型为引擎或不清楚，需要填写。
 格式： 预览版 | oppo
-例如 oppo 1030
+例如 oppo 1060
 -->
 
 - 手机型号
 <!--
 如果问题类型为引擎或不清楚，需要填写
 格式： oppo
-例如 oppo NEX 双屏版
+例如 oppo RENO 十倍变焦版
 -->
 
 - 操作系统
@@ -53,8 +53,8 @@ assignees: UncleBill
 - toolkit版本
 <!--
 如果问题类型为toolkit，需要填写
-格式： toolkit 0.3.1 | toolkit 0.3.2
-例如： toolkit 0.3.2
+格式： toolkit 1.0.4 | toolkit 1.0.5
+例如： toolkit 1.0.5
 -->
 
 ### 问题描述

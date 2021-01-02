@@ -16,7 +16,7 @@
 
 很多问题都在最新版本已经解决了，遇到问题第一步：
 
-**检查oppor引擎是否是最新版本，（cocos，laya，egret）等是否是最新版本，建议都升级到最新版本**
+**检查oppo引擎是否是最新版本，（cocos，laya，egret）等是否是最新版本，建议都升级到最新版本**
 
 [cocos最新版本下载地址](https://www.cocos.com/creator)
 
